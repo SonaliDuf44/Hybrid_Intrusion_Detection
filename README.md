@@ -1,4 +1,4 @@
-# Hybrid Intrusion Detection Syste with Focus on Signature Based Approach
+# Hybrid Intrusion Detection System with Focus on Signature Based Approach
 
 ## Requirements:
 #### 1) Matlab
